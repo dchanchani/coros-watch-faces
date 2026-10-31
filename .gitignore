@@ -1,0 +1,8 @@
+.DS_Store
+._*
+__pycache__/
+
+# Compiled faces and COROS template packages stay out of this repo.
+*.zip
+*.dat
+*.bin
