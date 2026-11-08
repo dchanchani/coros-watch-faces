@@ -6,3 +6,6 @@ __pycache__/
 *.zip
 *.dat
 *.bin
+
+# Output of the art generators
+tools/out/
